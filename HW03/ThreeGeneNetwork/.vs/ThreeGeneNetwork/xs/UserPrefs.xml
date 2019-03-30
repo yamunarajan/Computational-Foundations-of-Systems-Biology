@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{40CB222B-4B9F-7880-69E6-EB1BD1B5CAA8}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CellScriptY.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CellScriptY.cs" Line="60" Column="29" />
+      <File FileName="Assets/Scripts/CellScriptZ.cs" Line="91" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
